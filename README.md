@@ -4,3 +4,5 @@
 - [gson deserialize](http://www.javacreed.com/gson-deserialiser-example/)
 - [enum tutorial](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html) annotation,interface...
 - [java turorial](http://www.tutorialspoint.com/java)
+- [java io](http://www.tutorialspoint.com/java/java_files_io.htm)
+- [java fields and I/O](http://www.cnblogs.com/oubo/archive/2012/01/06/2394638.html)

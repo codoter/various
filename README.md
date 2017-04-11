@@ -8,3 +8,4 @@
 - [java fields and I/O](http://www.cnblogs.com/oubo/archive/2012/01/06/2394638.html)
 - theme color #BF4040
 - [site](http://how2j.cn/?73)
+- [blog](http://www.ruanyifeng.com/blog/)

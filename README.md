@@ -9,3 +9,4 @@
 - theme color #BF4040
 - [site](http://how2j.cn/?73)
 - [blog](http://www.ruanyifeng.com/blog/)
+- [mvn repository](http://mvnrepository.com/)

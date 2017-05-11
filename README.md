@@ -18,3 +18,4 @@
 - [WebSocket](http://www.open-open.com/lib/view/open1428648292500.html)
 - [websocket](https://www.ibm.com/developerworks/cn/java/j-lo-WebSocket/)
 - [Andriod](https://developer.android.google.cn)
+- [ali cloud](https://group.cnblogs.com/topic/76829.html)

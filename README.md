@@ -21,3 +21,7 @@
 - [ali cloud](https://group.cnblogs.com/topic/76829.html)
 - [data structur related](http://datastructur.es/sp16/)
 - [java](http://www.runoob.com/java)
+- [MongoDB](https://yq.aliyun.com/articles/53867)
+- [MDN RegExp](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
+- [Git Book](https://git-scm.com/book/zh/v2)
+- [ImportNew](http://www.importnew.com)
